@@ -1,16 +1,13 @@
-<<<<<<< HEAD
 # wdio-example
 
 ## How to run test: 
 
 ```bash
-npm test
+npm install
 ```
+
+and then:
 
 ```bash
-node_modules/.bin/wdio wdio.conf.js
+npm test
 ```
-
-=======
-# wdio-example
->>>>>>> dabebae... Initial commit
