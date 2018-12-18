@@ -19,6 +19,8 @@
   "devDependencies": {
     "wdio-mocha-framework": "^0.6.4",
     "wdio-selenium-standalone-service": "0.0.11",
-    "webdriverio": "^4.14.0"
+    "webdriverio": "^4.14.0",
+    "trueautomation-helper": "^0.3.0",
+    "wdio-trueautomation-service": "^0.3.3"
   }
 }
